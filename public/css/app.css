@@ -1,0 +1,294 @@
+/*Start Page*/
+#buttonone{
+    background-color: red;
+    border-radius: 12px;
+    padding: 17px 28px;
+    box-shadow: 0px 5px 5px #999;
+    color: white;
+    font-weight: bold;
+    border-color: red;
+}
+#txb{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+#input{
+    padding-bottom: 10%; /* 540/720 */
+    text-align: center;
+}
+/*Init Page*/
+#buttontwo{
+    background-color: white;
+    border-radius: 12px;
+    padding: 12px 28px;
+    box-shadow: 0px 5px 5px #999;
+    color: red;
+    font-weight: bold;
+}
+#txa{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+#span{
+margin: 0px -9px 0px 7px;
+color: red;
+}
+
+
+#div1{
+    padding-bottom: 40%; /* 540/720 */
+    background-color: red;
+    text-align: center;
+}
+#div5{
+    padding-bottom: 30%; /* 540/720 */
+    background-color: red;
+}
+#div2{
+    padding-bottom: 30%; /* 540/720 */
+    background-color: red;
+}
+#div3{
+    background-color: red;
+}
+#div4{
+    background-color: red;
+}
+.input{
+    box-shadow: 0px 5px 10px rgb(68, 68, 68);
+    border-radius: 9px;
+}
+.column{
+    padding: 0px !important;
+}
+body{
+    margin: 30px !important;
+}
+#divop1{
+    padding-bottom: 30%;
+    text-align: center;
+}
+#option1{
+    vertical-align: text-bottom;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0px 5px 5px #999;
+}
+#divop2{
+    text-align: center;
+
+}
+#divop3{
+    padding-bottom: 10%;
+    text-align: center;
+}
+#icons{
+    color: white;
+    vertical-align: text-bottom;
+
+}
+#divop4{
+    padding-bottom: 10%;
+    text-align: center;
+}
+#divop5{
+    padding-bottom: 10%;
+    text-align: center;
+}
+#title{
+    font-weight: bold;
+    color: black;
+}
+#div10{
+    padding-bottom: 60%;
+    text-align: center;
+}
+#iconmore{
+    color: black;
+
+}
+#btnmore{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid black;
+
+}
+#link{
+    color: red;
+    text-decoration: none;
+}
+#title2{
+    color: rgb(85, 82, 82);
+    font-weight:400;
+    font-size: 23px;
+}
+#btnmore2{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    border: 2px solid white;
+
+}
+#imgedit{
+    width:35px;
+	height:35px;
+}
+#listadm{
+    color: black;
+    border: black;
+    font-weight: normal;
+}
+#listadm1{
+
+}
+#listseller{
+
+}
+#div101{
+    padding-bottom: 60%;
+}
+#iconsz{
+    width:18px;
+	height:18px;
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+#iconsz1{
+    width:18px;
+	height:18px;
+    position: absolute;
+    top: 11px;
+    left: 10px;
+}
+#select{
+    border-color: black;
+}
+#usersi{
+
+    width: 250px;
+    height: 35px;
+    border-radius: 10px 10px 10px 10px;
+    border-color: black;
+    box-shadow: 0px 5px 5px #999;
+}
+#img1{
+    text-align: left;
+}
+
+#div05{
+    padding-bottom: 3%;
+}
+#textadm{
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    font-weight:500;
+    font-size: 16px;
+}
+#lixeira{
+    width:18px;
+	height:18px;
+    position: absolute;
+    top: 5px;
+    left: 210px;
+}
+#lapis{
+    width:18px;
+	height:18px;
+    position: absolute;
+    top: 5px;
+    left: 180px;
+}
+#input2{
+
+    text-align: left;
+}
+#textadm1{
+    position: absolute;
+    top: 5px;
+    left: 40px;
+    font-size: 17px;
+    font-weight:500;
+}
+#rounded{
+    box-shadow: 0px 5px 5px #999;
+}
+#lixeira1{
+
+    position: absolute;
+    top: 11px;
+    left: 210px;
+    color: black;
+}
+#statistics{
+    font-weight: bold;
+    background-color: red;
+    color:black;
+    position: absolute;
+    right: 0px;
+}
+#selectgoal{
+    border-color: transparent;
+    width: 250px;
+    height: 35px;
+}
+#imageseller{
+    width: 60px;
+    height: 50px;
+
+}
+#newbtn{
+    vertical-align: text-bottom;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    font-weight: 480;
+    box-shadow: 0px 5px 5px #999;
+}
+#goalinput{
+    position: absolute;
+    right: 0;
+    top: 4px;
+
+    height: 25px;
+    width: 140px;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0px 0px 0px #999;
+
+}
+#title1{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+#textadm3{
+    position: absolute;
+    left: 100px;
+    top: 3px;
+}
+#div101{
+    padding-bottom: 40%;
+    text-align: center;
+}
+#textadm31{
+    position: absolute;
+    left: 35px;
+    top: 5px;
+    font-weight:500;
+    font-size: 16px;
+}
